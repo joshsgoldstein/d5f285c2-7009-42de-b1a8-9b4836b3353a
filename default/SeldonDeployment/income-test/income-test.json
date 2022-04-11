@@ -44,15 +44,7 @@
                 },
                 "engineResources": {},
                 "svcOrchSpec": {},
-                "traffic": 100,
-                "explainer": {
-                    "type": "AnchorTabular",
-                    "modelUri": "gs://seldon-models/sklearn/income/explainer-py37-0.6.2",
-                    "containerSpec": {
-                        "name": "",
-                        "resources": {}
-                    }
-                }
+                "traffic": 100
             }
         ],
         "annotations": {
