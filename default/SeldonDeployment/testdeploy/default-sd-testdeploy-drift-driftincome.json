@@ -52,7 +52,7 @@
                             "io.seldon.serving.testdeploy-driftincome",
                             "DriftDetector",
                             "--drift_batch_size",
-                            "1000"
+                            "2"
                         ],
                         "ports": [
                             {
